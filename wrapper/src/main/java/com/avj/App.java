@@ -15,15 +15,7 @@ public class App {
 	
 	
     public static void main( String[] args ) {
-//		try {
-////			loadProps();
-////			AlphaVantageRequest alpha = new AlphaVantageRequest(props.getProperty("AV_API_KEY"));
-////			alpha.getDailyDataAsCsv("");
-////			alpha.close();
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
+    	//TODO: your code here.
     }
     
     
