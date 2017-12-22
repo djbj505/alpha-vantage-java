@@ -1,0 +1,8 @@
+package com.avj.utils.operations;
+
+public enum AlphaCrypto {
+	 DIGITAL_CURRENCY_INTRADAY,
+	 DIGITAL_CURRENCY_DAILY,
+	 DIGITAL_CURRENCY_WEEKLY,
+	 DIGITAL_CURRENCY_MONTHLY;
+}
